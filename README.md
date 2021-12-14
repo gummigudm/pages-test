@@ -31,12 +31,12 @@ Gott dæmi gæti verið vefur sem keyrir WordPress en notar Apache Solr til að 
 
 ## Greinar
 
-### \*\*Nánari upplýsingar:\*\*
+### Nánari upplýsingar:
 
 * [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
 * [Fjarskiptastofa – Netöryggssveitin CERT-IS hefur virkjað samhæfingarferli vegna alvarlegs veikleika í algengum hugbúnaði](https://www.fjarskiptastofa.is/fjarskiptastofa/tolfraedi-og-gagnasafn/frettasafn/frett/fr%C3%A9ttir/netoryggssveitin-cert-is-hefur-virkjad-samhaefingarstod-vegna-alvarlegs-veikleika-i-algengum-hugbunadi)
 
-### \*\*Ráðleggingar eða yfirlýsingar frá birgjum:\*\*
+### Ráðleggingar eða yfirlýsingar frá birgjum:
 
 * [Microsoft](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)
 * [Nutanix](https://download.nutanix.com/alerts/Security\\\_Advisory\\\_0023.pdf)
