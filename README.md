@@ -1,8 +1,4 @@
----
-description: Upplýsingasíða vegna Log4j veikleika. WIP.
----
-
-# Log4j
+# Log4j veikleiki
 
 ## Upplýsingar
 
